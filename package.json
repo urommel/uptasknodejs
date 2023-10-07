@@ -1,0 +1,19 @@
+{
+  "name": "uptasknodejs",
+  "version": "1.0.0",
+  "description": "Proyecto UpTask con Node y MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urommel/uptasknodejs.git"
+  },
+  "author": "Rommel Ulco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urommel/uptasknodejs/issues"
+  },
+  "homepage": "https://github.com/urommel/uptasknodejs#readme"
+}
